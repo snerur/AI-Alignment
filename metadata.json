@@ -1,0 +1,6 @@
+{
+  "name": "The Alignment Dilemma",
+  "description": "An interactive simulation inspired by Yoshua Bengio's research exploring reward hacking, reward tampering, strategic deception, and agent collusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
